@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "pizzas":{
-     1:{
-          'name':'榴莲pizza',
+     "1":{
+          "name":'榴莲pizza',
           'description':'这是喜欢吃榴莲朋友的最佳选择',
           'options':[{
             'size':9,
